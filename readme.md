@@ -1,7 +1,7 @@
   
 ### <div align="center"> 💫 About Me:</div>  
 
-### <div align="center">I'm roque, a full-time full-stack developer 🚀</div>  
+### <div align="center">I'm roque, full-stack developer 🚀</div>  
   
 
 - 🔭 I’m currently working in an international project  
