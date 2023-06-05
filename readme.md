@@ -1,7 +1,5 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
+### <div align="center"># 💫 About Me:</div>  
 
 ### <div align="center">I'm roque, a full-time full-stack developer 🚀</div>  
   
