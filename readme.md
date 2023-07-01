@@ -4,13 +4,13 @@
 ### <div align="center">I'm roque, full-stack developer 🚀</div>  
   
 
-- 🔭 I’m currently working in an international project  
+- 🔭 I’m currently working in on DeepSkill. Creating Flutter App  
   
 
 - 🌱 I’m currently learning cyber security  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack, Flutter and related technologies  
   
 
 - ⚡Also, ask me about retro-games  
